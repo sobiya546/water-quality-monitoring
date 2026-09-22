@@ -1,0 +1,25 @@
+Sample_ID,Source_ID,Source_Type,Location,Region,Date,pH,Turbidity,Dissolved_Oxygen,Hardness,Bacterial_Count,TDS,Conductivity,Temperature,Potability
+S001,W001,River,North Area,Region A,2026-01-10,7.2,2.1,7.5,150,10,250,400,24,1
+S002,W001,River,North Area,Region A,2026-02-15,7.0,3.2,7.1,160,15,270,420,25,1
+S003,W002,Lake,East Area,Region B,2026-03-12,7.5,4.1,6.8,170,20,300,450,27,1
+S004,W002,Lake,East Area,Region B,2026-04-20,6.8,5.2,6.2,180,35,350,500,29,1
+S005,W003,Well,South Area,Region C,2026-05-11,7.1,2.5,6.5,190,25,400,550,30,1
+S006,W003,Well,South Area,Region C,2026-06-18,6.4,7.8,4.2,220,150,650,800,31,0
+S007,W004,River,West Area,Region D,2026-07-14,6.2,9.5,3.8,230,250,700,900,30,0
+S008,W004,River,West Area,Region D,2026-08-22,6.1,12.2,3.2,240,300,800,1000,29,0
+S009,W005,Lake,North Area,Region A,2026-09-05,7.4,3.5,7.0,155,12,280,430,27,1
+S010,W005,Lake,North Area,Region A,2026-10-10,7.6,2.8,7.4,145,8,240,390,25,1
+S011,W006,Well,East Area,Region B,2026-11-12,8.9,6.5,4.5,260,180,600,850,23,0
+S012,W006,Well,East Area,Region B,2026-12-15,9.1,8.2,4.0,280,220,720,950,22,0
+S013,W007,River,South Area,Region C,2026-01-20,7.3,2.2,7.6,150,9,260,410,24,1
+S014,W007,River,South Area,Region C,2026-02-18,7.2,3.0,7.3,155,14,275,425,25,1
+S015,W008,Lake,West Area,Region D,2026-03-25,6.7,5.5,5.8,200,70,450,600,27,0
+S016,W008,Lake,West Area,Region D,2026-04-16,6.5,6.8,5.2,210,90,480,650,29,0
+S017,W009,Well,North Area,Region A,2026-05-21,7.0,2.9,6.8,170,20,300,460,30,1
+S018,W009,Well,North Area,Region A,2026-06-19,7.1,3.4,6.5,175,25,320,480,31,1
+S019,W010,River,East Area,Region B,2026-07-25,6.3,10.5,3.5,250,280,750,950,30,0
+S020,W010,River,East Area,Region B,2026-08-28,6.0,13.0,3.0,260,350,850,1100,29,0
+S021,W011,Lake,South Area,Region C,2026-09-18,7.5,2.7,7.2,150,10,250,400,27,1
+S022,W011,Lake,South Area,Region C,2026-10-21,7.4,3.1,7.0,155,15,270,420,25,1
+S023,W012,Well,West Area,Region D,2026-11-17,8.7,7.2,4.3,250,200,650,850,23,0
+S024,W012,Well,West Area,Region D,2026-12-20,8.9,8.0,4.1,270,230,700,900,22,0
